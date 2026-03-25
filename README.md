@@ -29,27 +29,6 @@
 - 🛠️ Fluent in **Burp Suite**, **Metasploit**, **Nmap** and **Wireshark**
 - ⚡ Fun fact: I write exploits and fix bugs in the same sitting
 
----
-
-## 🖥️ Current Focus
-
-```bash
-$ cat /etc/current_focus.conf
-
-[RED TEAMING]
-  advanced_exploitation = true
-  privilege_escalation  = in_progress
-
-[AI SECURITY]
-  llm_vulnerabilities   = researching
-  adversarial_ml        = exploring
-
-[WEB DEV]
-  fullstack_projects    = building
-  api_security          = hardening
-```
-
----
 
 ## 🛠️ Tech Stack & Skills
 
