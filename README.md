@@ -9,34 +9,44 @@
 ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚════╝ ╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝
 ```
 
-### `~/github $ whoami`
-
-🔐 **Security Researcher** · 🤖 **AI/ML Engineer** · 💻 **Full-Stack Developer**
+### 🔐 Security Researcher · 🤖 AI/ML Engineer · 💻 Full-Stack Developer
 
 *Breaking things ethically. Building things that matter.*
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39D353&center=true&vCenter=true&width=435&lines=Security+Researcher+%F0%9F%94%90;AI+%2F+ML+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;CTF+Player+%F0%9F%8E%AF;Linux+Enthusiast+%F0%9F%90%A7)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👾 About Me
+## 👤 About Me
 
-```python
-class Adobejaide:
-    def __init__(self):
-        self.username     = "Adobejaide"
-        self.role         = ["Security Researcher", "AI Engineer", "Full-Stack Dev"]
-        self.skills       = ["Python", "AI/ML", "JavaScript", "Web Dev", "Linux"]
-        self.tools        = ["Burp Suite", "Metasploit", "Nmap", "Wireshark", "Kali"]
-        self.passion      = "Hacking & building at the same time"
-        self.learning     = "Advanced Red Teaming + LLM Security"
-        self.coffee       = float("inf")
+- 🔭 Currently building **AI-powered security tools & full-stack web apps**
+- 🌱 Deep diving into **Advanced Red Teaming + LLM Security**
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+- 🔐 Love **ethical hacking**, penetration testing & CTF challenges
+- 🐧 Everyday driver: **Linux** — from scripting to exploitation
+- 🛠️ Fluent in **Burp Suite**, **Metasploit**, **Nmap** and **Wireshark**
+- ⚡ Fun fact: I write exploits and fix bugs in the same sitting
 
-    def say_hi(self):
-        print("Welcome to my GitHub — where code meets chaos 🔥")
+---
 
-me = Adobejaide()
-me.say_hi()
+## 🖥️ Current Focus
+
+```bash
+$ cat /etc/current_focus.conf
+
+[RED TEAMING]
+  advanced_exploitation = true
+  privilege_escalation  = in_progress
+
+[AI SECURITY]
+  llm_vulnerabilities   = researching
+  adversarial_ml        = exploring
+
+[WEB DEV]
+  fullstack_projects    = building
+  api_security          = hardening
 ```
 
 ---
@@ -92,34 +102,26 @@ me.say_hi()
 
 ---
 
-## 🌱 Currently Learning
+## 🐍 Contribution Snake
 
-```bash
-$ cat /etc/current_focus.conf
-
-[RED TEAMING]
-  advanced_exploitation = true
-  privilege_escalation  = in_progress
-
-[AI SECURITY]
-  llm_vulnerabilities   = researching
-  adversarial_ml        = exploring
-
-[WEB DEV]
-  fullstack_projects    = building
-  api_security          = hardening
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adobejaide/Adobejaide/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adobejaide/Adobejaide/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Adobejaide/Adobejaide/output/github-snake.svg" />
+</picture>
 
 ---
 
 ## 🏆 What I Do
 
-- 🔍 **Penetration Testing** — Web apps, networks, and systems
-- 🤖 **AI/ML Projects** — Building intelligent tools & automation
-- 🌐 **Full-Stack Dev** — From frontend to backend to deployment
-- 📡 **OSINT & Recon** — Information gathering & footprinting
-- 🐧 **Linux Wizard** — Scripting, sysadmin, and beyond
-- 🎯 **CTF Player** — Always sharpening the blade
+| Area | Details |
+|------|---------|
+| 🔍 Penetration Testing | Web apps, networks, and systems |
+| 🤖 AI/ML Projects | Building intelligent tools & automation |
+| 🌐 Full-Stack Dev | Frontend → Backend → Deployment |
+| 📡 OSINT & Recon | Information gathering & footprinting |
+| 🐧 Linux | Scripting, sysadmin, and exploitation |
+| 🎯 CTF Player | Always sharpening the blade |
 
 ---
 
@@ -137,12 +139,7 @@ $ cat /etc/current_focus.conf
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════╗
-║  "The quieter you become, the more you can hear" ║
-║                              — Kali Linux motto  ║
-╚══════════════════════════════════════════════════╝
-```
+> *"The quieter you become, the more you can hear"* — Kali Linux
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Adobejaide&color=39d353&style=flat-square&label=PROFILE+VIEWS)
 
